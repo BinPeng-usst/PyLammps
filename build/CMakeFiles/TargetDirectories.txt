@@ -1,0 +1,10 @@
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/install/strip.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/install/local.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/install.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/list_install_components.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/gitversion.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/mpi_stubs.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/install-python.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/lmp.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/Bin Peng/source/repos/lammps/build/CMakeFiles/rebuild_cache.dir

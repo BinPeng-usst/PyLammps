@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmpi_stubs.a  CMakeFiles/mpi_stubs.dir/mnt/c/users/Bin_Peng/source/repos/lammps/src/STUBS/mpi.c.o
+/usr/bin/ranlib libmpi_stubs.a

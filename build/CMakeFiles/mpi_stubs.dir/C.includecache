@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/users/Bin Peng/source/repos/lammps/src/STUBS/mpi.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+stdint.h
+-
+sys/time.h
+-
+mpi.h
+/mnt/c/users/Bin Peng/source/repos/lammps/src/STUBS/mpi.h
+../version.h
+/mnt/c/users/Bin Peng/source/repos/lammps/src/version.h
+
+/mnt/c/users/Bin Peng/source/repos/lammps/src/STUBS/mpi.h
+stdlib.h
+-
+
+/mnt/c/users/Bin Peng/source/repos/lammps/src/version.h
+
